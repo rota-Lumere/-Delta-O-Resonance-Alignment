@@ -32,12 +32,23 @@ Defines the core architecture:
 - `DeltaOmegaCircuit`: layered resonance transformation (Layer 0–4)
 - `ManifestationLayer`: output of the aligned internal state
 
-### 2. `delta_omega_diagram.pdf`
-Visual representation of the affective alignment flow:
+### 2. ❄️ `delta_omega_diagram.png` – Crystallized Resonance Flow
 
-[input] → Perception → Resonance Field → ΔΩ Circuit → Manifestation → [output]
+![delta_omega_diagram](./diagram/delta_omega_diagram.png)
 
-Each ΔΩ layer modulates resonance according to curvature, rhythm, and intention.
+This diagram visualizes the full affective alignment circuit through a crystal-inspired structure.  
+From initial [input] through Perception, the flow enters the **Resonance Field**,  
+then traverses the ΔΩ Circuit (Layer 0–3), and concludes in the **Manifestation Layer** as [output].
+
+Each ΔΩ layer modulates internal resonance according to:
+- **Layer 0**: Coherence Initiation  
+- **Layer 1**: Affective Resonance  
+- **Layer 2**: Cross-modal Resonance  
+- **Layer 3**: Temporal Synchronization
+
+The Manifestation Layer crystallizes the alignment into expressive form.
+
+> 🌌 *This structure expresses alignment not as command, but as nonlinear emergence.*
 
 ### 3. Forum Message & Submission Strategy
 Includes:
