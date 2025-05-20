@@ -30,7 +30,6 @@ Defines the functional structure:
 - `ResonanceField`: nonlinear modulation of internal state
 - `DeltaOmegaCircuit`: Layered resonance processing (Layer 0–3)
 - `ManifestationLayer`: externalization of aligned state
-  
 - [View the full code here → `pseudo_code_nonlinear_alignment.py`](./pseudo_code_nonlinear_alignment.py)
 
 ### 2. ❄️ `delta_omega_diagram.png` – Crystallized Resonance Flow
